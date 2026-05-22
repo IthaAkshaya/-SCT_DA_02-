@@ -1,0 +1,9 @@
+order_id,order_date,ship_date,category,sub_category,sales,profit,quantity,customer,region,segment
+CA-10001,2026-05-21,2026-05-25,Furniture,Chair,250.0,30.0,2,John Smith,West,Consumer
+CA-10002,2026-05-22,2026-05-26,Technology,Phone,0.0,50.0,0,Alice Brown,East,Corporate
+CA-10003,2026-05-23,2026-05-27,Office,Paper,120.0,0.0,5,David Lee,South,Consumer
+CA-10004,2026-05-23,2026-05-27,Technology,Laptop,800.0,100.0,1,Sarah Kim,Central,Home Office
+CA-10005,2026-05-24,2026-05-28,Furniture,Table,400.0,60.0,0,Michael Chen,East,Consumer
+CA-10006,2026-05-25,2026-05-29,Office,Binder,0.0,0.0,4,Emma Wilson,West,Corporate
+CA-10007,2026-05-26,2026-05-30,Technology,Monitor,300.0,40.0,1,Olivia Davis,South,Consumer
+CA-10008,2026-05-27,2026-05-31,Furniture,Sofa,900.0,120.0,1,Ethan Clark,Central,Home Office
