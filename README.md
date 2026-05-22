@@ -22,3 +22,7 @@ The goal of this task is to prepare a clean dataset for further analysis by ensu
 - No duplicates
 - Proper handling of missing values
 - Correct data types for analysis
+## Conclusion
+Task 02 successfully cleaned and prepared the Global Superstore dataset for analysis.  
+By fixing issues such as extra headers, missing values, wrong data types, and duplicates, the dataset is now consistent, reliable, and ready for use in further analytics and visualization.  
+The combination of the Colab notebook and the cleaned CSV ensures both transparency of the process and usability of the final data.
